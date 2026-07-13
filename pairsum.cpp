@@ -23,8 +23,8 @@ vector<int> brutePairSum(vector<int> nums, int size, int key)
     }
     return indexes;
 }
-// use the optimised approach
 
+// use the optimised approach
 vector<int> optimisedPairSum(vector<int> nums, int size, int key)
 {
 
@@ -55,9 +55,6 @@ vector<int> optimisedPairSum(vector<int> nums, int size, int key)
     return indexes;
 }
 
-// create functon for each approach
-
-// print the vector array
 
 int main()
 {
