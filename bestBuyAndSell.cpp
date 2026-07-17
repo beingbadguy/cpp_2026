@@ -20,7 +20,6 @@ int bruteStock(vector<int> &prices, int size)
 }
 
 // optimal approach
-
 int optimalStock(vector<int> &prices,int size ){
 
     int maxProfit = 0;
