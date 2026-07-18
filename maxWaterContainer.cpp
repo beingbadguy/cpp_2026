@@ -23,8 +23,7 @@ int bruteMost(vector<int> &heights, int size)
     return maxArea;
 }
 
-// write the optimal approach as well -> #TODO
-
+// write the optimal approach as well ->
 int optMost(vector<int> &heights, int size)
 {
     int start = 0;
